@@ -17,6 +17,7 @@ Create the interface according to the following requirements:
 
 - [ ] 1.1 - Create an **Sketch** of the mobile & desktop layouts (1h) and store it in images inside the folder `/sketch` in this repository.
 - [ ] 1.2 - Create a Wireframe based on the Sketch and store it in images inside the folder `/wireframe` in this repository.
+- [ ] 1.3 - The project description and wireframe is approved by the **Product Owner**
 
 ### Layout Requirements
 
@@ -43,13 +44,15 @@ Create the interface according to the following requirements:
 ## SPRINTS
 
 ### SPRINT: Checkpoint-1
+`Deadline: **Tuesday 9/11**`
 
 - [ ] S1.1 - A Private Github Repository has been created (add me - classicoman2 - as a collaborator) and [insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
-- [ ] S1.2 - Tasks 0.1 and 1.1 have been completed
+- [ ] S1.2 - Tasks 0.1 1.1 1.2 1.3 have been completed
 
 `The fulfillment of **Checkpoint 1** has incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
 
 ### SPRINT: Checkpoint-2
+`Deadline: **Sunday 28/11**`
 
 - [ ] S2.1 - The layout for mobile has been completed applying 2.4 and 2.5
 - [ ] S2.2 - 2.6 has been An initial Colour Palette 
@@ -57,7 +60,7 @@ Create the interface according to the following requirements:
 `The fulfillment of **Checkpoint 2** has incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
 
 ### FINAL SPRINT: PROTOTYPE RELEASE
-`Deadline:` ~~Monday 10/2~~ **Tuesday 11/2 at 15.45h**
+`Deadline: **Wednesday 9/12**`
 
 Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
 For this Sprint, the following tasks should have been completed:
@@ -65,6 +68,3 @@ For this Sprint, the following tasks should have been completed:
 - [x] Add the description of your Trimestral Project - maximum 200 words - in the README.MD file of your repository in English (in the root directory of the repository!)
 - [x] Create an **Issue** in your repository where you'll explain and set up a significative task you're going to complete before the deadline of this checkpoint.
 - [x] Implement this task and commit it to Github. Preferently, create a _branch_ and make a **Pull Request + Merge** in the master when you finish. Close the Issue when you've finished.
-
-`The fulfillment of **Checkpoint 2** has an incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
-
