@@ -27,6 +27,7 @@ Create the interface according to the following requirements:
 - [ ] 2.5 - The layout follows (as much as possible) the **User Experience_ principles** that we've seen in class.
 - [ ] 2.6 - Choose a **colour palette** and show the colours in this documentation file.
 - [ ] 2.7 - Choose the **fonts and sizes** of headings and plain text and show them in this documentation file.
+- [ ] 2.8 - Use **CSS Grid** and **CSS Flexbox** to build the layouts
 
 ### Project Management Requirements
 
