@@ -35,7 +35,7 @@ Create the interface according to the following requirements:
 - [ ] 3.1 - Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
 - [ ] 3.2 - If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
 
-### SPRINTS
+## SPRINTS
 
 ### SPRINT: Checkpoint-1
 
