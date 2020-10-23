@@ -35,6 +35,11 @@ Create the interface according to the following requirements:
 - [ ] 3.1 - Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
 - [ ] 3.2 - If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
 
+### Project Release Requirements
+
+- [ ] Create a **Github Release** and insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
+- [ ] EXTRA: Try deploying the prototype using a tool like **Jamstack**, **Heroku** etc. (No compta per la nota perquè no és un criteri d'avaluaciò válid pel mòdul)
+
 ## SPRINTS
 
 ### SPRINT: Checkpoint-1
@@ -42,23 +47,16 @@ Create the interface according to the following requirements:
 - [ ] S1.1 - A Private Github Repository has been created (add me - classicoman2 - as a collaborator) and [insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 - [ ] S1.2 - Tasks 0.1 and 1.1 have been completed
 
+`The fulfillment of **Checkpoint 1** has incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
+
 ### SPRINT: Checkpoint-2
 
 - [ ] S2.1 - The layout for mobile has been completed applying 2.4 and 2.5
 - [ ] S2.2 - 2.6 has been An initial Colour Palette 
-- 
+ 
+`The fulfillment of **Checkpoint 2** has incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
 
-`Deadline:`  **PENDING**
-
-For this Sprint, the following tasks should have been completed:
-
-- [X] Specify in the README.MD whether you're focusing on a [Mobile first approach](https://medium.com/@Vincentxia77/what-is-mobile-first-design-why-its-important-how-to-make-it-7d3cf2e29d00) or on a `Desktop Layout`.
-- [x] A mockup for Mobile or Desktop has been created and stored in a folder of the repository named  ´/mockup´. You can create this mockup by hand in a piece of paper. Explain your ideas as clearly as possible.
-
-`The fulfillment of **Checkpoint 1** has incidence of **12.5%** of the qualification of the Trimestral Project (DIW part)`
-
-### SPRINT: Checkpoint-2 (FINISHED)
-
+### FINAL SPRINT: PROTOTYPE RELEASE
 `Deadline:` ~~Monday 10/2~~ **Tuesday 11/2 at 15.45h**
 
 Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
@@ -69,13 +67,4 @@ For this Sprint, the following tasks should have been completed:
 - [x] Implement this task and commit it to Github. Preferently, create a _branch_ and make a **Pull Request + Merge** in the master when you finish. Close the Issue when you've finished.
 
 `The fulfillment of **Checkpoint 2** has an incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
-
-
-## HAND OUT
-
-- [ ] The source code of your app should be available in a repositori on Github. 
-- [ ] EXTRA: Try deploying the prototype using a tool like **Jamstack**, **Heroku** etc. (No compta per la nota perquè no és un criteri d'avaluaciò válid pel mòdul)
-
-And, FIRST OF ALL, please insert the url to your repository [in this Google Sheet](https://docs.google.com/spreadsheets/d/1FixUlq-GTvYyesiMveXqQXBJHB8PvEcZjMoXzAhiySw/edit#gid=0). THANKS!
-
 
