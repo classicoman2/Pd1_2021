@@ -28,6 +28,7 @@ Create the interface according to the following requirements:
 - [ ] 2.6 - Choose a **colour palette** and show the colours in this documentation file.
 - [ ] 2.7 - Choose the **fonts and sizes** of headings and plain text and show them in this documentation file.
 - [ ] 2.8 - Use **CSS Grid** and **CSS Flexbox** to build the layouts
+- [ ] 2.9 - Use [**CSS Refactor**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.x5bphe4nq2v0) and [**CSS Variables**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.uay6xh8zzrsb)
 
 ### Project Management Requirements
 
