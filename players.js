@@ -1,6 +1,11 @@
 var url =
   "https://my-json-server.typicode.com/classicoman2/fakeRESTserver/characters";
 
+/**
+ * Gets an array with the data of the characters
+ *
+ * @param {*} url  the url of the REST API
+ */
 async function getData(url) {
   const response = await fetch(url);
   const promesa = response.json();
@@ -8,6 +13,7 @@ async function getData(url) {
 }
 
 /**
+ * Creates the container with the data of the players.
  *
  * @param {*} dades JSON data of the characters and its images
  */
