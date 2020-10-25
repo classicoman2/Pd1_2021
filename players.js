@@ -43,24 +43,8 @@ function showCharacters(dades) {
     img.src = character.img;
     div.appendChild(img);
   });
-
-  /*
-                //Crea el div
-                var div = document.createElement("div");
-            div.classList.add("casella");
-            pare.appendChild(div);
-
-            //Crea element imatge
-            var img = document.createElement("IMG");
-            img.setAttribute("src", "images/grey-square.png");
-            img.setAttribute("id", "pieza" + numero);
-            // e.setAttribute("width", "304");
-            // e.setAttribute("height", "228");
-            img.setAttribute("alt", "Pieza" + numero);
-            //Inserta img dins el div anterior
-            div.appendChild(img);
-*/
 }
+
 window.onload = () => {
   // Resolem la promesa amb then
   getData(url).then((dades) => showCharacters(dades));
