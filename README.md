@@ -69,9 +69,6 @@ Create the interface according to the following requirements:
 ### FINAL SPRINT: PROTOTYPE RELEASE
 `Deadline: **Wednesday 9/12**`
 
-Now that you've created a repo and a mockup, you have to start (or continue) working in your Project.
-For this Sprint, the following tasks should have been completed:
+- [ ] End the project and hand over a release.
 
-- [x] Add the description of your Trimestral Project - maximum 200 words - in the README.MD file of your repository in English (in the root directory of the repository!)
-- [x] Create an **Issue** in your repository where you'll explain and set up a significative task you're going to complete before the deadline of this checkpoint.
-- [x] Implement this task and commit it to Github. Preferently, create a _branch_ and make a **Pull Request + Merge** in the master when you finish. Close the Issue when you've finished.
+ You'll have to make a **presentation of the project** on Thursday 10 and Friday 11. The format of the presentation and other nuances will be discussed further on.
