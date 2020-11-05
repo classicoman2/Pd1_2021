@@ -5,9 +5,9 @@ Pràctica de 2n DAW DUAL del CIFP Francesc de Borja Moll (1on Trimestre)
 ## ABSTRACT
 
 The theme of this practice is the development of **The website of an Online Game** of your choice. 
-In this "chapter, you'll have to write a short description of your game (less than 100 words)
+In this section, to write a short description of your game (less than 100 words)
 
-- [ ] 0.1 - Write a short description of your game in this section
+- [ ] 0.1 - Write a short description of your game
 
 ## REQUIREMENTS
 
@@ -15,26 +15,26 @@ Create the interface according to the following requirements:
 
 ### 1. Sketch and Wireframe Requirements
 
-- [ ] 1.1 - Create an **Sketch** of the mobile & desktop layouts (1h) and store it in images inside the folder `/sketch` in this repository.
-- [ ] 1.2 - Create a Wireframe based on the Sketch and store it in images inside the folder `/wireframe` in this repository. **Make some research on this kind of pages and try to create a layout as realisic as possible**.
+- [ ] 1.1 - Create an **Sketch** of the mobile & desktop layouts (1h), export it to jpg/png images and store them inside the folder `/sketch` in this repository.
+- [ ] 1.2 - Create a Wireframe based on the Sketch, export it to jpg/png images and store them inside the folder `/wireframe` in this repository. **Make some research on this kind of pages and try to create a layout as realisic as possible**.
 - [ ] 1.3 - The project description and wireframe is approved by the **Product Owner**
 
-### Layout Requirements
+### 2. Layout Requirements
 
 - [ ] 2.1 - Create a **mobile layout**
 - [ ] 2.2 - Create a **desktop layout**
 - [ ] 2.3 - The layout is **Responsive** and remains fluid between the breakpoints of the `mediaqueries`.
-- [ ] 2.4 - The layout follows (as much as possible) the **Visual Design guidelines** that we've seen in class.
-- [ ] 2.5 - The layout follows (as much as possible) the **User Experience_ principles** that we've seen in class.
+- [ ] 2.4 - The layout follows (as much as possible) the **Visual Design guidelines**seen in class.
+- [ ] 2.5 - The layout follows (as much as possible) the **User Experience_ principles** seen in class.
 - [ ] 2.6 - Choose a **colour palette** and show the colours in this documentation file.
-- [ ] 2.7 - Choose the **fonts and sizes** of headings and plain text and show them in this documentation file.
+- [ ] 2.7 - Choose **fonts and sizes** of headings and plain text and show them in this documentation file.
 - [ ] 2.8 - Use **CSS Grid** and **CSS Flexbox** to build the layouts
 - [ ] 2.9 - Use [**CSS Refactor**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.x5bphe4nq2v0) and [**CSS Variables**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.uay6xh8zzrsb)
 
-### Minimal screens
+### 3. Minimal screens
 
-- [ ] 3.1 - **Front page**: with data, images, icons, colours, some kind of login facility, menu - created mainly using **Grid**. All the pages will have same header, footer and nav. 
-- [ ] 3.2 - **Characters page**: Page with descriptions and images of the characters - the container of the cards and the card of every character. Use `players.html` and `players.js` and use the data that is obtained through an API call. 
+- [ ] 3.1 - **Front page**: created mainly using **Grid**. Contains headings and text, images/videos, icons, colours, some kind of login facility, menu .... All the pages will have same header, footer and nav. 
+- [ ] 3.2 - **Characters page**: A grid with descriptions and images of the characters. Use `players.html` and `players.js` and use the data that is obtained through an API call. 
 
 **Flexbox**
  
