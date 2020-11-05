@@ -35,8 +35,6 @@ Create the interface according to the following requirements:
 
 - [ ] 3.1 - **Front page**: with data, images, icons, colours, some kind of login facility, menu - created mainly using **Grid**. All the pages will have same header, footer and nav. 
 - [ ] 3.2 - **Characters page**: Page with descriptions and images of the characters - the container of the cards and the card of every character. Use `players.html` and `players.js` and use the data that is obtained through an API call. 
-
-**Flexbox**
  
 ### Project Management Requirements
 
