@@ -38,14 +38,19 @@ Create the interface according to the following requirements:
 
 **Flexbox**
  
-### Project Management Requirements
+### Project Management & Release Requirements
 
-- [ ] 3.1 - Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
-- [ ] 3.2 - If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
+- [ ] 4.1 - Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
+- [ ] 4.2 - If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
+- [ ] 4.3 - Create a **Github Release** and insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
+
+### Video Presentation
+
+- [ ] 5.1 - Create a video presentation of 5 to 10 minutes of your website, in **English**. Explain how you've build the website, the main sections, colour palette, headings used...
+
 
 ### Project Release Requirements
 
-- [ ] Create a **Github Release** and insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 - [ ] EXTRA: Try deploying the prototype using a tool like **Jamstack**, **Heroku** etc. (No compta per la nota perquè no és un criteri d'avaluaciò válid pel mòdul)
 
 ## SPRINTS
@@ -56,19 +61,14 @@ Create the interface according to the following requirements:
 - [ ] S1.1 - A Private Github Repository has been created (add me - classicoman2 - as a collaborator) and [insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 - [ ] S1.2 - Tasks 0.1 1.1 1.2 1.3 have been completed
 
-`The fulfillment of **Checkpoint 1** has incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
-
 ### SPRINT: Checkpoint-2
 `Deadline: **Sunday 28/11**`
 
 - [ ] S2.1 - The layout for mobile has been completed applying 2.4 and 2.5
 - [ ] S2.2 - 2.6 has been An initial Colour Palette 
  
-`The fulfillment of **Checkpoint 2** has incidence of **7.5%** of the qualification of the Trimestral Project (DIW part)`
-
 ### FINAL SPRINT: PROTOTYPE RELEASE
 `Deadline: **Wednesday 9/12**`
 
 - [ ] End the project and hand over a release.
 
- You'll have to make a **presentation of the project** on Thursday 10 and Friday 11. The format of the presentation and other nuances will be discussed further on.
