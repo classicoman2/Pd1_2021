@@ -26,8 +26,8 @@ Create the interface according to the following requirements:
 - [ ] 2.3 - The layout is **Responsive** and remains fluid between the breakpoints of the `mediaqueries`.
 - [ ] 2.4 - The layout follows (as much as possible) the **Visual Design guidelines**seen in class.
 - [ ] 2.5 - The layout follows (as much as possible) the **User Experience_ principles** seen in class.
-- [ ] 2.6 - Choose a **colour palette** and show the colours in this documentation file.
-- [ ] 2.7 - Choose **fonts and sizes** of headings and plain text and show them in this documentation file.
+- [ ] 2.6 - Choose a **colour palette** and show the colours in the documentation file [using this format](https://docs.google.com/spreadsheets/d/1yDqy-8nK90b1t97e2DgLYaPvoB4jcuA5kv5AuZUdBN4/edit#gid=1182541801). :new
+- [ ] 2.7 - Choose **fonts and sizes** of headings and show them in this documentation file [using this format](https://docs.google.com/spreadsheets/d/1yDqy-8nK90b1t97e2DgLYaPvoB4jcuA5kv5AuZUdBN4/edit#gid=0). :new
 - [ ] 2.8 - Use **CSS Grid** and **CSS Flexbox** to build the layouts
 - [ ] 2.9 - Use [**CSS Refactor**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.x5bphe4nq2v0) and [**CSS Variables**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.uay6xh8zzrsb)
 
