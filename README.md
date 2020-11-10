@@ -57,19 +57,19 @@ Create the interface according to the following requirements:
 ## SPRINTS
 
 ### SPRINT: Checkpoint-1
-`Deadline: **Tuesday 9/11**`
+:watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
 - [ ] S1.1 - A Private Github Repository has been created (add me - classicoman2 - as a collaborator) and [insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0) 
 - [ ] S1.2 - Tasks 0.1 1.1 1.2 1.3 have been completed
 
 ### SPRINT: Checkpoint-2
-`Deadline: **Sunday 28/11**`
+:watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
 - [ ] S2.1 - The layout for mobile has been completed applying 2.4 and 2.5
 - [ ] S2.2 - 2.6 has been An initial Colour Palette 
  
 ### FINAL SPRINT: PROTOTYPE RELEASE
-`Deadline: **Wednesday 9/12**`
+:watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
 - [ ] End the project and hand over a release.
 
