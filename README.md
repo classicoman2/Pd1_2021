@@ -83,3 +83,4 @@ Create the interface according to the following requirements:
       /css
     /assets
     /dist
+    /docs
