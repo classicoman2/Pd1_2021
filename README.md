@@ -60,7 +60,7 @@ Create the interface according to the following requirements:
 ### SPRINT: Checkpoint-1
 :watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
-- [ ] S1.1 - A Private Github Repository has been created (add me - classicoman2 - as a collaborator) and insert the link [in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0) 
+- [ ] S1.1 - A Private Github Repository has been created. Add me - classicoman2 - as a collaborator. Insert the link [in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0) 
 - [ ] S1.2 - Tasks 0.1 1.1 1.2 1.3 have been completed
 
 ### SPRINT: Checkpoint-2
@@ -69,6 +69,7 @@ Create the interface according to the following requirements:
 - [ ] Structure of directory created as indicated (mirar final del document)
 - [ ] The layout for mobile has been completed applying 2.4 and 2.5
 - [ ] The colour palette and fonts have been chosen and posted in README.MD (podran ser canviades a posteriori)
+- [ ] Hand over a release v0.1 
  
 ### FINAL SPRINT: PROTOTYPE RELEASE
 :watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
