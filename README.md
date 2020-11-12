@@ -81,6 +81,6 @@ Create the interface according to the following requirements:
     /src
       /js
       /css
-    /assets
+      /images
     /dist
     /docs
