@@ -76,7 +76,7 @@ Create the interface according to the following requirements:
 
 - [ ] End the project and hand over a release.
 
-### Structure of directory
+### Structure of directories
 
     /src
       /js
