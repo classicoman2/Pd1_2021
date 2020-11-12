@@ -43,7 +43,7 @@ Create the interface according to the following requirements:
 
 - [ ] 4.1 - Use a Project Management Tool, for instance use [Github Projects and Issues](https://github.com/classicoman2/skills2020-quick-website-develop) that you can set up in the Github Repository of your project
 - [ ] 4.2 - If you don't use Github Projects and Issues, set the link to the Project Management page you've been using at the top of the README.MD file of your repo
-- [ ] 4.3 - Create a **Github Release** and insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
+- [ ] 4.3 - Create a **Github Release** and insert the link [in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
 ### Video Presentation
 
