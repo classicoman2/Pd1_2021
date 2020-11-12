@@ -34,7 +34,7 @@ Create the interface according to the following requirements:
 - [ ] 2.11 - Use [semantic tags](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.xs3su5aas2o) :pill:
 - [ ] 2.12 - Use some hack to include Header and Footer from separated files. Example: [this JQuery Hack](https://docs.google.com/document/d/1RXwgikqEfVhopg7zwvnmAQoyMWreQeRa7bCLOodGM3U/edit#heading=h.jkbvj42pliv7) :pill:
 
-### 3. Minimal screens
+### 3. Views
 
 - [ ] 3.1 - **Front page**: created mainly using **Grid**. Contains headings and text, images/videos, icons, colours, some kind of login facility, menu .... All the pages will have same header, footer and nav. 
 - [ ] 3.2 - **Characters page**: A grid with descriptions and images of the characters. Use `players.html` and `players.js` and use the data that is obtained through an API call. 
