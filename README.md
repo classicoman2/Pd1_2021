@@ -52,6 +52,7 @@ Create the interface according to the following requirements:
 
 ### Project Release Requirements
 
+- [ ] Create a **production version** using GULP and a preconfigured Gulpfile. More information [here](https://docs.google.com/document/d/1RXwgikqEfVhopg7zwvnmAQoyMWreQeRa7bCLOodGM3U/edit#heading=h.pb2c1yxlj6hy). :new:
 - [ ] EXTRA: Try deploying the prototype using a tool like **Jamstack**, **Heroku** etc. and put the link on top of this document (No compta per la nota perquè no és un criteri d'avaluaciò válid pel mòdul)
 
 ## SPRINTS
@@ -59,17 +60,25 @@ Create the interface according to the following requirements:
 ### SPRINT: Checkpoint-1
 :watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
-- [ ] S1.1 - A Private Github Repository has been created (add me - classicoman2 - as a collaborator) and [insert the link in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0) 
+- [ ] S1.1 - A Private Github Repository has been created (add me - classicoman2 - as a collaborator) and insert the link [in this document](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0) 
 - [ ] S1.2 - Tasks 0.1 1.1 1.2 1.3 have been completed
 
 ### SPRINT: Checkpoint-2
 :watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
-- [ ] S2.1 - The layout for mobile has been completed applying 2.4 and 2.5
-- [ ] S2.2 - 2.6 has been An initial Colour Palette 
+- [ ] Structure of directory created as indicated (mirar final del document)
+- [ ] The layout for mobile has been completed applying 2.4 and 2.5
+- [ ] The colour palette and fonts have been chosen and posted in README.MD (podran ser canviades a posteriori)
  
 ### FINAL SPRINT: PROTOTYPE RELEASE
 :watch: `Deadline`: [Here](https://docs.google.com/spreadsheets/d/1r3_kRMr3bCyDJZAW448TioSksqnoB2WwEnhjdW6GiEY/edit#gid=0)
 
 - [ ] End the project and hand over a release.
 
+### Structure of directory
+
+    /src
+      /js
+      /css
+    /assets
+    /dist
