@@ -29,7 +29,7 @@ Create the interface according to the following requirements:
 - [ ] 2.6 - Choose a **colour palette** and show the colours in the documentation file [using this format](https://docs.google.com/spreadsheets/d/1yDqy-8nK90b1t97e2DgLYaPvoB4jcuA5kv5AuZUdBN4/edit#gid=1182541801). :new:
 - [ ] 2.7 - Choose **fonts and sizes** of headings and show them in this documentation file [using this format](https://docs.google.com/spreadsheets/d/1yDqy-8nK90b1t97e2DgLYaPvoB4jcuA5kv5AuZUdBN4/edit#gid=0). :new:
 - [ ] 2.8 - Use mainly **CSS Grid** and **CSS Flexbox** to build the layouts. You can't use any framework
-- [ ] 2.9 - Use [**CSS Refactor**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.x5bphe4nq2v0) :pill:
+- [ ] 2.9 - Use [**CSS Refactor**](https://docs.google.com/document/d/1RXwgikqEfVhopg7zwvnmAQoyMWreQeRa7bCLOodGM3U/edit#heading=h.nlnl9de6q86i) :pill:
 - [ ] 2.10 - Use [**CSS Variables**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.uay6xh8zzrsb) to specify the colors of the color palette :pill:
 - [ ] 2.11 - Use [**semantic tags**](https://docs.google.com/document/d/1s-aOTgASYY_0LvzCI-lnL6QK8S4FsUZGuUEwYLhjA_M/edit#heading=h.xs3su5aas2o) :pill:
 - [ ] 2.12 - Use some hack to include Header and Footer from separated files. Example: [this JQuery Hack](https://docs.google.com/document/d/1RXwgikqEfVhopg7zwvnmAQoyMWreQeRa7bCLOodGM3U/edit#heading=h.jkbvj42pliv7) :pill:
