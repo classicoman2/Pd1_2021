@@ -52,7 +52,7 @@ Create the interface according to the following requirements:
 
 ### Project Release Requirements
 
-- [ ] Create a **production version** using GULP and a preconfigured Gulpfile. More information [here](https://docs.google.com/document/d/1RXwgikqEfVhopg7zwvnmAQoyMWreQeRa7bCLOodGM3U/edit#heading=h.pb2c1yxlj6hy). :new:
+- [ ] Create a **production version** using GULP and a preconfigured Gulpfile. More information [here](https://docs.google.com/document/d/1i6S9bQKPk2kWvi5dLfVLZ16hn2x8-CXe25NQe5UaV78/edit). :new:
 - [ ] EXTRA: Try deploying the prototype using a tool like **Jamstack**, **Heroku** etc. and put the link on top of this document (No compta per la nota perquè no és un criteri d'avaluaciò válid pel mòdul)
 
 ## SPRINTS
