@@ -47,7 +47,8 @@ Create the interface according to the following requirements:
 
 ### Video Presentation
 
-- [ ] 5.1 - Create a video presentation of 5 to 10 minutes of your website, in **English**. Explain how you've build the website, the main sections, colour palette, headings used...
+- [ ] 5.1 - Create a video presentation (min 3', max 6') of the website, in **English**. Show the layouts for mobile/desktop displays and explain the main components.
+
 
 
 ### Project Release Requirements
