@@ -47,7 +47,7 @@ Create the interface according to the following requirements:
 
 ### Video Presentation
 
-- [ ] 5.1 - Create a video presentation (min 3', max 6') of the website, in **English**. Show the layouts for mobile/desktop displays and explain the main components.
+- [ ] 5.1 - Create a video presentation (min 2'30", max 5') of the website, in **English**. Show the layouts for mobile/desktop displays and explain the main components.
 
 
 
